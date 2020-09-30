@@ -1,0 +1,392 @@
+body {
+    margin: 0%;
+}
+.bckgrnd {
+    margin-left: 160px;
+    margin-right: 183px;
+    background-image: url("pink.jpg");
+}
+.navi-lo img{
+    max-width: 160px;
+    margin-left: -50px;
+    margin-top: -30px;
+}
+.navi-lo ul{
+    float: right;
+}
+.navi-lo ul li a {    
+    text-decoration: none;
+    color: rgb(78, 78, 78);
+}
+.navi-lo ul li {
+    display: inline;
+    list-style-type: none;
+    font-family: 'Secular One', sans-serif;
+    font-size: 15px;
+    padding-left: 39px;
+}
+article {
+    display: flex;
+}
+.div1-head, .div2, .div4 {
+    margin-top: 25px;
+    font-family: 'Ramabhadra', sans-serif;
+    max-width: 550px;
+}
+
+.marg {
+    font-size: 55px;
+    margin-top: -50px;
+    margin-bottom: 10px;
+    line-height: 60px;
+}
+.helo {
+    font-size: 50px;
+}
+.div1-head p {
+    font-size: 15px;
+}
+.lin a {
+    font-family: 'Ramabhadra', sans-serif;
+    text-decoration: none;
+    font-size: 15px;
+    color: black;
+    padding-top: 5px;
+    padding-left: 12px;
+    border: 1px solid rgb(231, 231, 0);
+}
+.lin {
+    width: 150px;
+    height: 40px;
+    padding-top: 5px;
+    background-color: rgb(231, 231, 0);
+}
+.rect {
+    width: 470px;
+    height: 450px;
+    background-color: rgb(196, 196, 196);
+    border: 1px;
+    border-style: solid;
+    border-color: rgb(172, 172, 172);
+    opacity: 30%;
+    margin-top: 30px;
+}
+.div2-head {
+    margin-top: 85px;
+    font-size: 25px;
+}
+.nav-left ul li {
+    display: inline;
+    list-style-type: none;
+    padding-right: 25px;
+    font-size: 13px;
+}
+.bor {
+    width: 20px;
+    height: 20px;
+    padding-left: 20px;
+    background-color: rgb(231, 231, 0);
+}
+.art {
+    text-align: center;
+    padding-top: 50px;
+}
+.brand {
+    margin: -20px;
+    text-align: center;
+    font-size: 13px;
+}
+.div2-nav {
+    margin-top: -35px;
+    margin-left: -35px;
+    display: flex;
+
+}
+.nav-right {
+    margin-top: 15px;
+}
+.nav-right select {
+    margin-left: 30px;
+}
+.flocol {
+    display: flex;
+    flex-direction: row;
+}
+.floro {
+    display: flex;
+    flex-direction: column;
+}
+.r1-col {
+    width: 320px;
+    height: 270px;
+    background-color: rgb(231, 231, 0);
+    border: 1px;
+    border-style: solid;
+    border-color: rgb(231, 231, 0);
+    margin-bottom: 16px;
+    margin-right: 16px;
+}
+.r2 {
+    width: 320px;
+    height: 420px;
+    background-color: rgb(196, 196, 196);
+    border: 1px;
+    border-style: solid;
+    border-color: rgb(172, 172, 172);
+    opacity: 30%;
+    margin-bottom: 16px;
+    margin-right: 16px;
+}
+.r1 {
+    width: 320px;
+    height: 270px;
+    background-color: rgb(196, 196, 196);
+    border: 1px;
+    border-style: solid;
+    border-color: rgb(172, 172, 172);
+    opacity: 30%;
+    margin-bottom: 16px;
+    margin-right: 16px;
+}
+.show a {
+    text-decoration: none;
+    font-size: 15px;
+    color: black;
+    padding-top: 15px;
+    padding-left: 12px;
+    border: 1px solid rgb(231, 231, 0);
+    align-content: center;
+}
+.show {
+    margin-left: 420px;
+    width: 150px;
+    height: 40px;
+    padding-top: 15px;
+    background-color: rgb(231, 231, 0);
+}
+.div4 h1{
+    margin-top: 100px;
+    font-size: 45px;
+}
+.div4 p {
+    margin-top: -30px;
+    font-size: 13px;
+    margin-bottom: 25px;
+}
+.div5 h1{
+    margin-top: 100px;
+    font-family: 'Ramabhadra', sans-serif;
+    font-size: 45px;
+}
+.div5 p {
+    font-family: 'Ramabhadra', sans-serif;
+    margin-top: -30px;
+    font-size: 13px;
+    margin-bottom: 25px;
+}
+.inside {
+    margin-top: 370px;
+    width: 200px;
+    height: 50px;
+    background-color: rgb(231, 231, 0);
+    opacity: 100%;
+}
+.inside h6 {
+    padding-left: 20px;
+    margin-top: -25px;
+    font-family: 'Ramabhadra', sans-serif;
+    color: white;
+}
+.inside h5 {
+    padding-left: 20px;
+    margin-top: -25px;
+    font-family: 'Ramabhadra', sans-serif;
+}
+.r2-border {
+    font-family: 'Ramabhadra', sans-serif;
+    width: 320px;
+    height: 420px;
+    border: 5px;
+    border-style: solid;
+    border-color:  rgba(224, 224, 224, 0.425);
+    margin-bottom: 16px;
+    margin-right: 16px;
+}
+.r2-div4 {
+    width: 320px;
+    height: 420px;
+    background-color:  rgba(224, 224, 224, 0.425);
+    border: 1px;
+    border-style: solid;
+    border-color: rgba(224, 224, 224, 0.425);
+    margin-bottom: 16px;
+    margin-right: 16px;
+}
+.r2-border h4 {
+    margin-left: 55px;
+    margin-top: 45px;
+    margin-bottom: 25px;
+}
+.r2-border p {
+    margin-left: 25px;
+    font-size: 13px;
+    line-height: 25px;
+    margin-bottom: 50px;
+}
+.r2-border a {
+    
+    margin-left: 25px;
+    text-decoration: none;
+    color: black;
+}
+.r2-div5 {
+    width: 320px;
+    height: 220px;
+    background-color:  rgba(224, 224, 224, 0.425);
+    border: 1px;
+    border-style: solid;
+    border-color: rgba(224, 224, 224, 0.425);
+    margin-bottom: 16px;
+    margin-right: 16px;
+}
+.r2-div5-fill {
+    width: 320px;
+    height: 220px;
+    background-color:  rgb(231, 231, 0);
+    border: 1px;
+    border-style: solid;
+    border-color:  rgb(231, 231, 0);
+    margin-bottom: 16px;
+    margin-right: 16px;
+}
+.r2-div5-fill h2 {
+    text-align: center;
+    margin-top: 90px;
+    font-size: 25px;
+    font-family: 'Ramabhadra', sans-serif;
+}
+.down-content {
+    font-family: 'Ramabhadra', sans-serif;
+    margin-left: 20px;
+}
+.down-content h2{
+    margin-left: 10px;
+    font-size: 15px;
+    margin-bottom: 30px;
+}
+.down-content p {
+    font-size: 10px;
+    line-height: 20px;
+    margin-bottom: 30px;
+}
+.div6 h1{
+    margin-top: 100px;
+    font-family: 'Ramabhadra', sans-serif;
+    font-size: 45px;
+}
+.div6 p {
+    font-family: 'Ramabhadra', sans-serif;
+    margin-top: -30px;
+    font-size: 13px;
+    margin-bottom: 25px;
+}
+.div7, .div9, .div3 {
+    display: flex;
+}
+.leftside h1, .forum {
+    font-family: 'Ramabhadra', sans-serif;
+    margin-top: 40px;
+}
+.forum input {
+    margin-left: 50px;
+    width: 300px;
+    height: 25px;
+    background-color:  rgba(224, 224, 224, 0.425);
+    border: 1px;
+    border-style: solid;
+    border-color: rgba(224, 224, 224, 0.425);
+}
+.forum textarea {
+    background-color:  rgba(224, 224, 224, 0.425);
+    border: 1px;
+    border-style: solid;
+    border-color: rgba(224, 224, 224, 0.425);    
+}
+.forum label, .forum input, .forum textarea {
+    margin: 10px;
+}
+.rect-div7 {
+    width: 470px;
+    height: 450px;
+    background-color: rgb(196, 196, 196);
+    border: 1px;
+    border-style: solid;
+    border-color: rgb(172, 172, 172);
+    opacity: 30%;
+    margin-left: 138px;
+}
+.div8 {
+    margin-top: 100px;
+    display: flex;
+    align-content: center;
+}
+.div8 img {
+    width: 50px;
+    height: 40px;
+    margin-left: 130px;
+}
+.div8 p {
+    text-align: center;
+    margin-left: 130px;
+    font-family: 'Ramabhadra', sans-serif;
+    font-size: 8px;
+}
+.div8 .first-icon {
+    margin-left: 100px;
+}
+.div9 img {
+    margin-left: 50px;
+    width: 20px;
+    height: 20px;
+}
+.div9 .first-icon {
+    margin-left: 390px;    
+}
+footer {
+    display: flex;
+    margin-left: -180px;
+    margin-right: -183px;
+    height: 90px;
+    background-color: rgba(7, 2, 0, 0.973);
+    opacity: 90%;
+}
+.foot img{
+    max-width: 160px;
+    margin-left: 130px;
+    margin-top: 0px;
+}
+.foot {
+    font-family: 'Ramabhadra', sans-serif;
+    font-size: 8px;
+    color: white;
+}
+.foot p {
+    margin-left: -20px;
+    margin-top: 40px;
+}
+.foot a {
+    margin-top: 40px;
+    margin-left: 720px;
+    text-decoration: none;
+    color: white;
+}
+.div3 {
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-bottom: 100px;
+}
+.div3 img {
+    width: 110px;
+    height: 90px;
+    padding-right: 50px;
+}
